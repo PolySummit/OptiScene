@@ -1,0 +1,71 @@
+[Task Room Type]
+living room
+[/Task Room Type]
+
+[Task Room Area]
+42.0
+[/Task Room Area]
+
+[Task Objects and Bounding Box Size]
+{"objects": [{
+    "object": "1 extra-large modern sectional sofin charcoal grey fabric with chaise lounge",
+    "bounding box": [
+        {
+            "h": 3.5,
+            "w": 1.2,
+            "d": 0.9
+        }
+    ]
+}, {
+    "object": "1 large elongated minimalist wood coffee table with matte finish and storage drawer",
+    "bounding box": [
+        {
+            "h": 1.8,
+            "w": 0.8,
+            "d": 0.45
+        }
+    ]
+}, {
+    "object": "1 extra-wide modern low-profile tv stand with expanded integrated shelving in walnut wood",
+    "bounding box": [
+        {
+            "h": 3.2,
+            "w": 0.55,
+            "d": 0.7
+        }
+    ]
+}, {
+    "object": "1 wider modern narrow console table with metal frame and wood top",
+    "bounding box": [
+        {
+            "h": 1.8,
+            "w": 0.45,
+            "d": 0.8
+        }
+    ]
+}, {
+    "object": "2 tall modern arc floor lamp with adjustable head and black metal finish",
+    "bounding box": [
+        {
+            "h": 0.4,
+            "w": 0.4,
+            "d": 1.8
+        },
+        {
+            "h": 0.4,
+            "w": 0.4,
+            "d": 1.8
+        }
+    ]
+}, {
+    "object": "1 medium-sized wooden side cabinet with storage drawers and doors",
+    "bounding box": [
+        {
+            "h": 1.2,
+            "w": 0.5,
+            "d": 0.9
+        }
+    ]
+}]}
+[/Task Objects and Bounding Box Size]
+

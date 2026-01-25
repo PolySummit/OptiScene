@@ -1,0 +1,19 @@
+name: optiscene
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+    - trl
+    - vllm
+    - modelscope
+    - torch
+    - transformers
+    - peft
+    - datasets
+    - accelerate
+    - einops
+    - flash-attn
