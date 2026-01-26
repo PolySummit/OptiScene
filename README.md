@@ -1,6 +1,18 @@
-# Optiscene
+# OptiScene
 
-This repository contains the code for a multi-stage training process, including Supervised Fine-Tuning (SFT) and two stages of Direct Preference Optimization (DPO), followed by inference.
+[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-blue.svg)](https://neurips.cc/virtual/2025/loc/san-diego/poster/117323)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.07570-b31b1b.svg)](https://arxiv.org/abs/2506.07570)
+[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://polysummit.github.io/optiscene.github.io/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Models-yellow.svg)]()
+
+> **OptiScene: LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization**
+>
+> *Accepted at NeurIPS 2025*
+
+## Introduction
+
+This is the official code repository for our NeurIPS 2025 paper **OptiScene**. We present a novel approach for indoor scene layout generation using Large Language Models (LLMs) through scaled human-aligned data synthesis and multi-stage preference optimization (DPO).
+
 
 ## Environment Setup
 
@@ -132,3 +144,32 @@ Once the final model is trained and merged, you can run inference using the foll
 ```bash
 python main.py --task inference --checkpoint_dir outputs/Qwen-7B-DPO-Stage2-merged
 ```
+
+## Model Weights
+
+We will release the final pre-trained model weights on Hugging Face soon:
+
+| Model | Description | Link |
+|-------|-------------|------|
+| OptiScene-Qwen-7.5B | Final model after Two-Stage DPO | Coming Soon |
+
+## Citation
+
+If you find our work useful, please consider citing:
+
+```bibtex
+@inproceedings{optiscene2025,
+  title={OptiScene: LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization},
+  author={},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2025}
+}
+```
+
+## License
+
+This project is released under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+We thank the open-source community for their valuable contributions that made this work possible.
