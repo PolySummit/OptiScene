@@ -7,7 +7,8 @@
 
 > **OptiScene: LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization**
 >
-> *Accepted at NeurIPS 2025*
+> *Accepted at NeurIPS 2025.*
+*The model weight will coming soon.*
 
 
 ## Introduction
