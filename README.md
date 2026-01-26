@@ -1,4 +1,4 @@
-# The Code Implemantation of the OptiScene in NeurIPS 2025.
+# The Code Implemantation of the OptiScene (NeurIPS2025).
 
 [![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-blue.svg)](https://neurips.cc/virtual/2025/loc/san-diego/poster/117323)
 [![arXiv](https://img.shields.io/badge/arXiv-2506.07570-b31b1b.svg)](https://arxiv.org/abs/2506.07570)
@@ -8,7 +8,7 @@
 > **OptiScene: LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization**
 >
 > *Accepted at NeurIPS 2025.*
-*The model weight will coming soon.*
+*The model weight coming soon.*
 
 
 ## Introduction
