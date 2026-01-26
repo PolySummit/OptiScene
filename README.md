@@ -9,13 +9,13 @@
 >
 > *Accepted at NeurIPS 2025*
 
+
 ## Introduction
 
 This is the official code repository for our NeurIPS 2025 paper **OptiScene**. We present a novel approach for indoor scene layout generation using Large Language Models (LLMs) through scaled human-aligned data synthesis and multi-stage preference optimization (DPO).
 
 
 ## Environment Setup
-
 To set up the required environment, follow these steps:
 
 ```bash
@@ -158,11 +158,10 @@ We will release the final pre-trained model weights on Hugging Face soon:
 If you find our work useful, please consider citing:
 
 ```bibtex
-@inproceedings{optiscene2025,
-  title={OptiScene: LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization},
-  author={},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
-  year={2025}
+@inproceedings{yang2025optiscene,
+  title={Optiscene: Llm-driven indoor scene layout generation via scaled human-aligned data synthesis and multi-stage preference optimization},
+  author={Yang, Yixuan and Luo, Zhen and Ding, Tongsheng and Lu, Junru and Gao, Mingqi and Yang, Jinyu and Sanchez, Victor and Zheng, Feng},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems}
 }
 ```
 
