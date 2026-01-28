@@ -3,6 +3,7 @@
 [![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-blue.svg)](https://neurips.cc/virtual/2025/loc/san-diego/poster/117323)
 [![arXiv](https://img.shields.io/badge/arXiv-2506.07570-b31b1b.svg)](https://arxiv.org/abs/2506.07570)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://polysummit.github.io/optiscene.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black.svg)](https://github.com/PolySummit/OptiScene)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Models-yellow.svg)]()
 
 > **OptiScene: LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization**
