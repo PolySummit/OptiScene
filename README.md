@@ -4,7 +4,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2506.07570-b31b1b.svg)](https://arxiv.org/abs/2506.07570)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://polysummit.github.io/optiscene.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-black.svg)](https://github.com/PolySummit/OptiScene)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-Models-yellow.svg)]()
+[![Hugging Face Dataset](https://img.shields.io/badge/HuggingFace-Dataset-yellow.svg)](https://huggingface.co/datasets/B3rrYang/3D-SynthPlace_indoor_scenes_dataset)
 
 > **OptiScene: LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization**
 >
@@ -16,6 +16,9 @@
 
 This is the official code repository for our NeurIPS 2025 paper **OptiScene**. We present a novel approach for indoor scene layout generation using Large Language Models (LLMs) through scaled human-aligned data synthesis and multi-stage preference optimization (DPO).
 
+## Dataset
+
+The full **3D-SynthPlace** dataset used in this paper is available on Hugging Face: [3D-SynthPlace Indoor Scenes Dataset](https://huggingface.co/datasets/B3rrYang/3D-SynthPlace_indoor_scenes_dataset)
 
 ## Environment Setup
 To set up the required environment, follow these steps:
